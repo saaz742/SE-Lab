@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf781750-16be-43fe-b236-c653922e04ab" name="Changes" comment="Add second experiment README.md">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/RectangleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/RectangleTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/RectangleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/RectangleTest.class" afterDir="false" />
+    <list default="true" id="bf781750-16be-43fe-b236-c653922e04ab" name="Changes" comment="2nd experiment&#10;Update tests &#10;Add images to README.md">
+      <change afterPath="$PROJECT_DIR$/img/rec.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/square.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +93,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1689957346275</updated>
-      <workItem from="1689957349123" duration="4070000" />
+      <workItem from="1689957349123" duration="4447000" />
     </task>
     <task id="LOCAL-00001" summary="Create project&#10;Add Rectangle and Square classes">
       <created>1689957565977</created>
@@ -118,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689959578260</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="2nd experiment&#10;Update tests &#10;Add images to README.md">
+      <created>1689963645929</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1689963645929</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,6 +145,7 @@
     <MESSAGE value="Create project&#10;Add Rectangle and Square classes" />
     <MESSAGE value="Add tests for rectangle and square" />
     <MESSAGE value="Add second experiment README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add second experiment README.md" />
+    <MESSAGE value="2nd experiment&#10;Update tests &#10;Add images to README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="2nd experiment&#10;Update tests &#10;Add images to README.md" />
   </component>
 </project>
