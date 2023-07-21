@@ -19,6 +19,10 @@ https://github.com/ssc-public/Software-Engineering-Lab/blob/main/agendas/SOLID.m
 
 ### عکس های صحت تست:
 
+![img.png](img/rec.png)
+
+![img.png](img/square.png)
+
 ## پرسش‌ها
 
   - هر یک از پنج اصل SOLID را در دو الی سه خط توضیح دهید.

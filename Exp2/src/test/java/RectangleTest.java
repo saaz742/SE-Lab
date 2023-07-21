@@ -1,8 +1,13 @@
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
-
 class RectangleTest {
+
+    @Test
+    void computeArea() {
+        Rectangle rectangle = new Rectangle(3, 4);
+        assertEquals(12, rectangle.computeArea());
+    }
 
     @Test
     void setHeight() {
@@ -31,17 +36,10 @@ class RectangleTest {
     }
 
     @Test
-    void computeArea() {
-        Rectangle rectangle = new Rectangle(3, 4);
-        assertEquals(12, rectangle.computeArea());
-    }
-
-    @Test
     public void testSetAndGet() {
         Rectangle rectangle = new Rectangle(6, 10);
         rectangle.setHeight(8);
         rectangle.setWidth(13);
-        assertEquals(8, rectangle.getHeight());
-        assertEquals(13, rectangle.getWidth());
+        assertEquals(104, rectangle.computeArea());
     }
 }
