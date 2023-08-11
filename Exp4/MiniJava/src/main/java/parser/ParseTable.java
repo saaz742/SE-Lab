@@ -16,8 +16,9 @@ public class ParseTable {
     private ArrayList<Map<NonTerminal, Integer>> gotoTable;
 
     public ParseTable(String jsonTable) throws Exception {
-        jsonTable = jsonTable.substring(2, jsonTable.length() - 2);
-        String[] Rows = jsonTable.split("\\],\\[");
+        String jTable = jsonTable
+        jTable = jsonTable.substring(2, jsonTable.length() - 2);
+        String[] Rows = jTable.split("\\],\\[");
         Map<Integer, Token> terminals = new HashMap<Integer, Token>();
         Map<Integer, NonTerminal> nonTerminals = new HashMap<Integer, NonTerminal>();
         Rows[0] = Rows[0].substring(1, Rows[0].length() - 1);
