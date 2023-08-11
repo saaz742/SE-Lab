@@ -10,6 +10,7 @@ import Log.Log;
 
 import codeGenerator.CodeGeneratorNew;
 import errorHandler.ErrorHandler;
+import parser.actions.Action;
 import scanner.ScannerNew;
 import scanner.token.Token;
 
