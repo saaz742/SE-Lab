@@ -205,24 +205,6 @@ docker image ls
 ![Alt text](images/image-3.png)
 ![Alt text](images/image-4.png)
 
-**صحت کارکرد در Postman:**
-
-جمع:
-
-![Alt text](images/image-1.png)
-
-تفریق:
-
-![Alt text](images/image.png)
-
-تاریخچه:
-
-![Alt text](images/image-2.png)
-
-حذف از تاریخچه:
-
-![Alt text](images/image-3.png)
-![Alt text](images/image-4.png)
 
 # پرسش ها
  - از چه نمودار/نمودارهای UML ای برای مدل‌سازی معماری MicroService خود استفاده کرده‌اید؟
