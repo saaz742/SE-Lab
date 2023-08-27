@@ -5,9 +5,10 @@ const cors = require('cors');
 const app = express();
 const port = 8080
 
-const base = process.env.BACKEND_BASE || 'http://localhost';
-const addServiceUrl = `${base}:8090/api`
-const subtractServiceUrl = `${base}:8070/api`
+const add_base = process.env.BACKEND_ADD_BASE || 'http://localhost';
+const sub_base = process.env.BACKEND_SUB_BASE || 'http://localhost';
+const addServiceUrl = `${add_base}:8090/api`
+const subtractServiceUrl = `${sub_base}:8070/api`
 
 app.use(cors());
 
