@@ -176,34 +176,34 @@ docker image ls
 ```
 اجرای داکر بدون دیتابیس:
 
-![img.png](assets/doc.png)
+![img.png](images/doc.png)
 
-![img.png](assets/doc-com.png)
+![img.png](images/doc-com.png)
 
 اجرای فرانت:
 
-![img.png](assets/add.png)
+![img.png](images/add.png)
 
-![img.png](assets/sub.png)
+![img.png](images/sub.png)
 
 **صحت کارکرد در Postman:**
 
 جمع:
 
-![Alt text](assets/image-1.png)
+![Alt text](images/image-1.png)
 
 تفریق:
 
-![Alt text](assets/image.png)
+![Alt text](images/image.png)
 
 تاریخچه:
 
-![Alt text](assets/image-2.png)
+![Alt text](images/image-2.png)
 
 حذف از تاریخچه:
 
-![Alt text](assets/image-3.png)
-![Alt text](assets/image-4.png)
+![Alt text](images/image-3.png)
+![Alt text](images/image-4.png)
 
 **صحت کارکرد در Postman:**
 
