@@ -67,3 +67,17 @@ services:
       replicas: 1
       restart_policy:
         condition: on-failure
+
+  redis:
+    image: redis
+    build:
+      context: db
+      dockerfile: ./Dockerfile
+    ports:
+      - "6379:6379"
+    deploy:
+      replicas: 1
+      restart_policy:
+        condition: on-failure
+    volumes: # bind db/data to container
+      - ./db/data:/data
