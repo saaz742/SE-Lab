@@ -176,15 +176,34 @@ docker image ls
 ```
 اجرای داکر بدون دیتابیس:
 
-![img.png](images/doc.png)
+![img.png](assets/doc.png)
 
-![img.png](images/doc-com.png)
+![img.png](assets/doc-com.png)
 
 اجرای فرانت:
 
-![img.png](images/add.png)
+![img.png](assets/add.png)
 
-![img.png](images/sub.png)
+![img.png](assets/sub.png)
+
+**صحت کارکرد در Postman:**
+
+جمع:
+
+![Alt text](assets/image-1.png)
+
+تفریق:
+
+![Alt text](assets/image.png)
+
+تاریخچه:
+
+![Alt text](assets/image-2.png)
+
+حذف از تاریخچه:
+
+![Alt text](assets/image-3.png)
+![Alt text](assets/image-4.png)
 
 # پرسش ها
  - از چه نمودار/نمودارهای UML ای برای مدل‌سازی معماری MicroService خود استفاده کرده‌اید؟
