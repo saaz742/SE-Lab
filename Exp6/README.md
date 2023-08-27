@@ -12,7 +12,9 @@
 [Github](https://github.com/ssc-public/Software-Engineering-Lab/blob/main/agendas/docker.md)
 
 ## UML:
-[]()
+[drawo.io]()
+
+![img.png](images/SEL-Exp6.drawio.png)
 
 #  ساخت پروژه:
 
@@ -172,6 +174,17 @@ docker-compose up
 docker ps
 docker image ls
 ```
+اجرای داکر بدون دیتابیس:
+
+![img.png](images/doc.png)
+
+![img.png](images/doc-com.png)
+
+اجرای فرانت:
+
+![img.png](images/add.png)
+
+![img.png](images/sub.png)
 
 # پرسش ها
  - از چه نمودار/نمودارهای UML ای برای مدل‌سازی معماری MicroService خود استفاده کرده‌اید؟
