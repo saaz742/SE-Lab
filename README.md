@@ -21,3 +21,9 @@ Experiments:
   - Experiment 4: Code Refactoring
 
     [Link](https://github.com/saaz742/SE-Lab/tree/main/Exp4)
+  - Experiment 5: Profiling
+
+    [Link](https://github.com/moeiniamir/SELab5/tree/master)
+  - Experiment 6: Deploying a MicroService-based software using Docker
+
+    [Link](https://github.com/saaz742/SE-Lab/tree/main/Exp6)
